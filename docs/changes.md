@@ -5,7 +5,7 @@
 - [Zygisk] Introduce new code injection mechanism
 - [Zygisk] Support new signature introduced in U QPR2
 - [SEPolicy] Update libsepol to properly set some policy config bits
-- [MagiskBoot] Support compressing `init` so Magisk is installable on devices with small boot partitions
+- [Magick] Support compressing `init` so Magisk is installable on devices with small boot partitions
 - [ResetProp] Add new wait for property feature `resetprop -w`
 
 ### v26.4
